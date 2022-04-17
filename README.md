@@ -9,6 +9,7 @@ In this profile, you probably can find:
 
 Peace and Love 💝. （Meanwhile, stay hungry, stay foolish. )
 
+Wanna visit [My personal blog](https://www.youtube.com/watch?v=dQw4w9WgXcQ) and subscribe me? 
 
 <!---
 Rickyoung221/Rickyoung221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
