@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Rick Young, a FullStack Developer from China 🇨🇳. 
 - 👀 I’m interested in music🎵, pets🐱, boxing👊🏻, etc.. (Too much)
 
-<img src="https://www.looper.com/img/gallery/the-other-back-to-the-future-reference-you-missed-in-rick-and-morty/l-intro-1618319353.jpg" alt="The Other Back To The Future Reference You Missed In Rick And Morty" style="zoom: 33%;" />
+<img src="https://static.tvtropes.org/pmwiki/pub/images/abcb6534_7913_4eb1_a7a5_62b081ebc628.png" alt="The Other Back To The Future Reference You Missed In Rick And Morty" style="zoom: 20%;" />
 
 In this profile, you probably can find:
 - Personal work for assigments and projects of some CS courses. (ah, hope it is legal)
