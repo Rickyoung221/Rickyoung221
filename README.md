@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Rick Young, a FullStack Developer from China 🇨🇳. 
 - 👀 I’m interested in music🎵, pets🐱, boxing👊🏻, etc.. (Too much)
 
-<img src="https://static.tvtropes.org/pmwiki/pub/images/abcb6534_7913_4eb1_a7a5_62b081ebc628.png" alt="The Other Back To The Future Reference You Missed In Rick And Morty" style="zoom: 20%;" />
+![Angry Cat Broke Computer GIF - Angry Cat Broke Computer Mad - Discover &  Share GIFs](https://tva1.sinaimg.cn/large/e6c9d24egy1h1pey8pxplg20c807y7k5.gif)
 
 In this profile, you probably can find:
 - Personal work for assigments and projects of some CS courses. (ah, hope it is legal)
