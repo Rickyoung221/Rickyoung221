@@ -9,6 +9,7 @@ In this profile, you probably can find:
 - Personal work for assigments and projects of some CS courses. (ah, hope it is legal)
 - Some personal projects include frontend (React, angular..), backend. 
 - Some group projects in hackathon.
+- My logs of solving Leetcode Problems and my note about algorithm.
 - (In the future) Personal Cookbook 🍚 （Written in Chinese since most of them are Chinese food)
 
 
