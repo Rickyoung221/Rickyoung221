@@ -6,12 +6,10 @@
 ![Computer Cat — hazzart](https://images.squarespace-cdn.com/content/v1/5ccdb6eeb91449580563d995/1585071507659-79IGQEUKOLMRHVKV3NS8/ComputerCat_06.gif?format=2500w)
 
 In this profile, you probably can find:
-- Personal work for assigments and projects of some CS courses. (ah, hope it is legal)
-- Some personal projects include frontend (React, angular..), backend. 
-- Some group projects developed in hackathon.
+- Personal work for assignments and projects of some UCLA CS courses.
+- Some personal projects include frontend (React, angular..), and backend. 
+- Some group projects developed in the hackathon.
 - My logs of solving Leetcode Problems and my note about algorithm (using Python). 
-- (In the future) Personal Cookbook 🍚 （Written in Chinese since most of them are Chinese food)
-
 
 Platforms & Tools:
 
