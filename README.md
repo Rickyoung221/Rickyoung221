@@ -22,7 +22,7 @@ Platforms & Tools:
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
 
-Email: rickweb@163.com
+Email: rick.lai.offer@gmail.com
 
 
 Peace and Love 💝. （Meanwhile, stay hungry, stay foolish. )
