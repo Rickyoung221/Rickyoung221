@@ -6,10 +6,10 @@
 ![Computer Cat — hazzart](https://images.squarespace-cdn.com/content/v1/5ccdb6eeb91449580563d995/1585071507659-79IGQEUKOLMRHVKV3NS8/ComputerCat_06.gif?format=2500w)
 
 In this profile, you probably can find:
-- Personal work for assignments and projects of some UCLA CS courses.
-- Some personal projects include frontend (React, angular..), and backend. 
+- Personal/Group work for assignments and projects of some UCLA CS courses.
+- Some personal open-source projects. 
 - Some group projects developed in the hackathon.
-- My logs of solving Leetcode Problems and my note about algorithm (using Python). 
+- My notes of solving Leetcode Problems and my note about algorithm (using Python). 
 
 Platforms & Tools:
 
